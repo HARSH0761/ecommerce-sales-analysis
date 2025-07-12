@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>E-commerce Sales Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="main-title">E-commerce Sales Dashboard</h1>
+        <p class="subheading">Gain actionable insights from sales trends for smarter business decisions.</p>
+
+        <div class="chart-section">
+            <h2>Analysis 1: Top 10 Best-Selling Products</h2>
+            <img src="{{ url_for('static', filename='top_10_products.png') }}" class="chart-img" alt="Top 10 Products">
+        </div>
+
+        <div class="chart-section">
+            <h2>Analysis 2: Daily Revenue Over Time</h2>
+            <img src="{{ url_for('static', filename='revenue_over_time.png') }}" class="chart-img" alt="Revenue Over Time">
+        </div>
+
+        <div class="chart-section">
+            <h2>Analysis 3: Revenue by Category</h2>
+            <img src="{{ url_for('static', filename='category_revenue.png') }}" class="chart-img" alt="Category Revenue">
+        </div>
+
+        <div class="chart-section">
+            <h2>Analysis 4: Number of Orders Per Day</h2>
+            <img src="{{ url_for('static', filename='daily_orders.png') }}" class="chart-img" alt="Daily Orders">
+        </div>
+    </div>
+</body>
+</html>

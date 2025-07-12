@@ -1,0 +1,1001 @@
+order_date,product_id,product_name,category,price,quantity,revenue
+2024-09-13,4,Paprika,,6,57,342
+2024-12-09,3,Electric Razor,,1,43,43
+2024-12-10,30,Plant-Based Protein Bars,,31,10,310
+2025-01-29,92,Vegan Chickpea Salad,,85,94,7990
+2025-04-27,30,Chipotle Lime Salsa,,81,60,4860
+2025-04-03,54,Video Camera,,24,2,48
+2024-07-16,100,Lemon Garlic Marinade,,96,44,4224
+2024-12-10,88,Herb Garden Planter Box,,34,48,1632
+2025-03-03,82,Noise-Canceling Earbuds,,43,16,688
+2024-12-30,23,Handcrafted Wooden Jewelry Box,,50,53,2650
+2024-09-01,49,Summer Tank Dress,,17,56,952
+2025-04-01,72,Kids' Activity Book,,60,80,4800
+2025-04-03,23,Adjustable Laptop Desk,,14,78,1092
+2025-01-20,78,Crispy Onion Rings,,1,2,2
+2024-11-16,86,Maxi Wrap Dress,,79,62,4898
+2025-01-15,35,Wireless Charging Pad,,48,96,4608
+2025-07-02,94,Maple Bacon Popcorn,,77,76,5852
+2024-10-15,98,Travel Beach Blanket,,70,92,6440
+2025-07-04,8,Cushion Covers,,59,67,3953
+2025-05-08,12,Adjustable Bar Stools,,56,16,896
+2025-04-26,36,Beef Taco Skillet,,98,59,5782
+2025-06-21,25,Zucchini Noodle Pasta,,68,86,5848
+2024-07-23,99,Garden Vegetable Soup,,66,34,2244
+2024-08-27,47,Honeycrisp Apple Chips,,85,66,5610
+2025-01-16,5,Interactive Plush Toy,,92,12,1104
+2025-03-31,36,Frozen Edamame,,45,11,495
+2024-08-03,45,Board Game Storage,,23,2,46
+2025-06-02,51,Mediterranean Chickpea Salad,,69,35,2415
+2025-05-16,60,Organic Italian Seasoning,,51,13,663
+2025-02-23,40,Wireless Earbuds Case,,84,75,6300
+2025-01-28,70,Mixed Berry Smoothie Pack,,25,87,2175
+2025-04-21,3,Quinoa & Black Bean Salad,,80,3,240
+2025-01-14,99,Paint By Numbers Kit,,36,57,2052
+2025-05-11,22,Collapsible Folding Chair,,72,48,3456
+2024-09-12,86,Vegan Taco Seasoning,,59,57,3363
+2025-01-09,38,Roasted Garlic Aioli,,56,62,3472
+2025-06-24,44,Children's Educational Puzzle,,48,63,3024
+2025-03-17,4,Pasta (Fusilli),,38,23,874
+2025-04-29,3,Peach & Mango Salsa,,9,86,774
+2025-03-18,33,Popcorn Chicken,,52,55,2860
+2025-01-22,13,Zesty Garlic Hummus,,4,55,220
+2025-03-27,99,Almond Butter Cups,,79,59,4661
+2024-11-12,20,Fruit and Nut Energy Bites,,77,89,6853
+2025-05-26,65,Cucumber Relish,,94,65,6110
+2025-01-31,29,Vegan chocolate chip cookies,,3,74,222
+2025-06-01,63,Portable Laptop Table,,78,75,5850
+2024-09-18,42,Fleece Lined Leggings,,37,14,518
+2025-02-12,63,Spicy Roasted Nuts,,98,29,2842
+2025-02-16,86,Car Windshield Sun Shade,,100,39,3900
+2025-01-08,15,Reusable Silicone Food Storage Bags,,83,68,5644
+2024-12-06,48,Basil Lemonade,,77,21,1617
+2024-10-02,92,Tortilla Chips,,24,12,288
+2025-06-04,61,DIY Lip Balm Making Kit,,66,6,396
+2024-11-11,82,Golf Polo Shirt,,92,50,4600
+2024-12-09,56,Ice Cream Maker,,96,50,4800
+2024-12-09,68,Ice Cream Maker,,59,41,2419
+2024-10-14,62,Pumpkin Pancake Mix,,80,80,6400
+2024-12-05,80,Garlic and Herb Rub,,36,80,2880
+2024-09-15,88,Oven Mitts,,23,33,759
+2024-07-13,39,Tuna Fish (canned),,54,88,4752
+2024-11-18,44,Measuring Cups Set,,72,42,3024
+2025-06-10,82,Organic Cucumber,,1,68,68
+2025-01-07,58,Brown Sugar,,89,77,6853
+2024-10-21,3,Non-Stick Baking Sheet,,36,93,3348
+2025-05-05,16,Folding Backpack Chair,,75,98,7350
+2025-06-18,33,Green Tea Matcha Powder,,94,37,3478
+2025-02-15,98,Sweet Chili Thai Sauce,,78,45,3510
+2025-04-06,60,Pocket Blanket,,61,46,2806
+2025-06-28,41,Trendy Bomber Jacket,,60,69,4140
+2025-03-18,37,Fitness Resistance Bands Set,,4,93,372
+2024-07-27,17,Outdoor Camping Lantern,,62,31,1922
+2024-09-15,26,Truffle Parmesan Fries,,44,17,748
+2024-08-19,78,Electric Griddle with Lid,,32,84,2688
+2025-03-18,3,Chocolate Hazelnut Granola,,32,78,2496
+2025-03-18,78,Italian Marinara Sauce,,30,14,420
+2024-12-10,35,Coffee Maker,,52,2,104
+2025-01-13,6,Compressed Towel Tablets,,96,65,6240
+2025-05-22,44,Wireless Music Receiver,,26,89,2314
+2025-01-02,38,Mini Projector for Smartphones,,34,33,1122
+2024-12-11,47,Over-the-Door Hooks,,72,68,4896
+2025-03-18,64,LED Disco Ball Light,,22,18,396
+2025-03-05,81,Spiced Pumpkin Soup,,71,64,4544
+2025-04-02,90,Children's Gardening Set,,100,86,8600
+2024-11-16,33,Samsung Galaxy Smartwatch,,68,83,5644
+2024-09-28,51,Pet Training Pads,,55,47,2585
+2025-03-15,51,Set of Gardening Gloves with Claws,,83,32,2656
+2025-06-09,61,Folding Exercise Bike,,84,64,5376
+2024-12-15,11,Frozen Berry Blend,,43,96,4128
+2025-07-08,28,Chickpea Snack Mix,,15,52,780
+2025-01-18,98,Dried Fruit Medley,,13,25,325
+2025-06-13,18,Sea Salt Tortilla Chips,,93,87,8091
+2025-01-31,60,Lockable Bicycle Chain,,99,52,5148
+2024-08-31,20,Almond Milk,,38,69,2622
+2025-01-31,19,Garden Hoses with Expandable Features,,79,46,3634
+2024-09-14,23,Pork Tenderloin,,64,76,4864
+2025-01-05,62,Pet Bed,,4,22,88
+2025-01-08,40,Mini Pretzels,,96,6,576
+2024-11-10,25,Kale Salad with Lemon Dressing,,27,93,2511
+2024-09-21,70,Maple Cinnamon Almonds,,24,42,1008
+2025-05-09,48,High-Speed HDMI Cable,,100,30,3000
+2024-11-09,49,Smoked Paprika,,33,99,3267
+2025-04-29,9,Electric Kettle,,15,82,1230
+2024-10-12,94,High-Waisted Skirt,,62,5,310
+2024-09-20,98,Savory Rice Cakes,,24,17,408
+2024-09-15,27,Vegetable Chips,,59,11,649
+2024-09-03,13,Chipotle Black Bean Salad,,40,38,1520
+2024-12-18,52,Basketball,,11,24,264
+2024-12-20,12,Italian Meatballs,,55,30,1650
+2024-08-04,55,Measuring Cups Set,,11,43,473
+2024-10-02,87,Travel Makeup Organizer,,97,16,1552
+2024-12-21,57,Electric Rice Cooker,,60,9,540
+2024-11-06,77,Waterproof Rain Boots,,88,7,616
+2024-12-04,73,Photo Album,,85,84,7140
+2024-09-20,40,Classic Slim Fit Shirt,,24,11,264
+2025-05-07,70,Sea Salt Tortilla Chips,,32,66,2112
+2025-03-21,2,Vegan Alfredo Sauce,,57,26,1482
+2025-01-14,51,Chocolate Mint Thins,,8,5,40
+2025-01-19,28,Balsamic Glazed Brussels Sprouts,,58,5,290
+2025-01-11,91,Herb Drying Rack,,59,39,2301
+2024-09-29,39,Portable Electric Fan,,98,11,1078
+2025-05-08,81,Adjustable Pet Feeder,,14,33,462
+2025-04-19,21,Creamy Tomato Basil Soup,,52,8,416
+2025-01-07,23,Memory Foam Mattress Topper,,35,73,2555
+2025-01-17,11,Cream Cheese,,32,83,2656
+2025-05-02,23,Peanut Butter Pretzel Bites,,11,38,418
+2025-01-30,62,Rechargeable Laptop Battery Pack,,76,88,6688
+2024-09-29,3,Electric Bike,,41,82,3362
+2024-08-21,47,Herb Garden Planter Box,,41,28,1148
+2024-12-06,90,Almond Coconut Granola,,87,9,783
+2024-12-25,61,Mediterranean Flatbread,,45,26,1170
+2025-05-10,100,Wireless Induction Charger,,94,11,1034
+2025-07-09,33,Electric Griddle with Lid,,8,80,640
+2025-02-11,64,USB-C Hub,,4,40,160
+2025-03-29,45,Honey Ginger Tea,,60,60,3600
+2025-02-11,18,Siphon Coffee Maker,,76,50,3800
+2025-06-09,86,Eco-Friendly Cleaning Cloths,,59,13,767
+2024-12-08,97,Insulated Cooler,,91,62,5642
+2025-05-20,86,Pumpkin Waffles,,48,28,1344
+2024-09-13,16,Flavored Instant Oatmeal,,31,3,93
+2024-07-13,11,Compact Folding Table,,40,55,2200
+2025-03-03,2,Noise-Canceling Headphones,,22,26,572
+2024-09-26,57,Peanut Butter Protein Balls,,8,81,648
+2024-12-03,4,Reversible Swimming Pool Lounger,,16,26,416
+2024-09-25,66,Portable Campfire,,60,47,2820
+2025-02-23,80,Overnight Duffle Bag,,74,54,3996
+2024-07-18,97,Portable Dog Water Bottle,,64,15,960
+2025-04-30,67,Phone Case,,46,54,2484
+2024-08-26,96,Bluetooth Shower Speaker,,56,95,5320
+2024-07-17,1,Crispy Kale Chips,,66,57,3762
+2024-11-23,55,Garlic and Herb Rub,,64,19,1216
+2024-09-27,97,Organic Cucumber,,40,87,3480
+2025-04-26,39,Chia Seeds,,59,4,236
+2025-06-09,93,Garden Hoses with Expandable Features,,3,69,207
+2025-03-03,48,Children's Musical Instrument Set,,84,82,6888
+2025-01-16,27,Lentil Vegetable Curry,,86,96,8256
+2025-06-27,89,Comfy Slippers,,70,40,2800
+2024-09-10,4,Wireless Wi-Fi Extender,,17,58,986
+2025-03-12,6,Portable Refrigerator Freezer,,31,96,2976
+2024-11-25,93,Cinnamon Apple Sauce,,92,63,5796
+2025-03-07,74,Cinnamon Sugar Tortilla Chips,,65,59,3835
+2025-01-12,50,Multifunctional Baby Bottle Warmer,,58,41,2378
+2025-04-01,78,Portable Hammock,,50,15,750
+2025-04-13,11,Samoas Cookie Mix,,44,34,1496
+2025-04-03,21,Electric Heat Pad,,54,87,4698
+2025-04-08,78,Black Bean Salsa,,3,25,75
+2025-04-16,74,Reversible Comforter Set,,25,45,1125
+2025-02-20,59,Wireless Gaming Mouse,,55,89,4895
+2025-03-24,73,Coconut Oil,,65,57,3705
+2024-10-23,82,Wooden Blocks,,21,3,63
+2024-11-01,68,Gardening Fairy Figurines,,14,12,168
+2025-06-20,20,Electric Pressure Washer,,28,26,728
+2024-08-29,68,LED Makeup Mirror,,60,16,960
+2024-12-18,68,Hiking Gaiters,,27,36,972
+2025-07-02,28,Smart Home Security Camera,,9,33,297
+2025-03-15,61,Noise-Canceling Headphones,,22,56,1232
+2024-10-14,51,Chia Seed Pudding,,7,59,413
+2024-09-07,54,Toasted Coconut Granola,,62,73,4526
+2025-05-03,49,Tailored Dress Pants,,78,34,2652
+2024-08-21,34,Vegan Mac & Cheese,,45,26,1170
+2024-07-11,37,Gardening Kneeler and Seat,,36,24,864
+2025-02-21,46,Creamy Avocado Dip,,76,16,1216
+2024-12-20,33,Smart Wi-Fi Camera,,9,82,738
+2024-07-27,68,Hibiscus Herbal Tea,,32,71,2272
+2025-03-04,37,Coconut Cream Pie,,27,53,1431
+2025-03-02,8,Travel Yoga Mat,,9,46,414
+2024-12-17,81,Chocolate Fudge Ice Cream,,69,7,483
+2025-02-12,18,Laptop Sleeve,,20,85,1700
+2025-06-04,6,Wireless Earbuds Case,,1,76,76
+2025-03-31,49,Electric Kettle,,24,30,720
+2024-12-21,84,Hot Dog Buns,,30,31,930
+2025-05-08,91,Maple Syrup,,40,11,440
+2024-08-20,90,Puzzle 3D Model Kit,,48,75,3600
+2024-10-27,11,Roasted Garlic,,74,60,4440
+2024-08-09,15,Roasted Garlic Aioli,,27,87,2349
+2025-04-06,19,Reusable Coffee Filter,,58,31,1798
+2024-11-19,65,Classic Black Trousers,,80,19,1520
+2024-12-05,92,Balsamic Fig Dressing,,22,99,2178
+2024-10-12,12,Bamboo Utensil Holder,,48,32,1536
+2024-09-06,44,Smart Water Bottle,,66,7,462
+2025-04-16,78,Fitness Jump Rope,,57,60,3420
+2024-11-16,92,Mini Air Hockey Table,,29,87,2523
+2024-12-30,71,Travel Organizer,,97,46,4462
+2024-12-29,73,Sliced Cucumbers,,1,42,42
+2024-10-14,2,Avocado Oil Mayo,,76,50,3800
+2025-04-30,93,Herbed Goat Cheese,,78,72,5616
+2024-10-04,58,Pet First Aid Kit,,54,94,5076
+2025-03-26,98,Carrot Sticks,,61,90,5490
+2024-10-07,79,Cranberry Citrus Sauce,,47,45,2115
+2024-08-31,69,Lightweight Backpacking Tent,,16,55,880
+2024-12-30,64,Garlic Herb Seasoning,,4,73,292
+2025-01-21,86,Portable Bluetooth Speaker,,92,56,5152
+2025-05-28,8,Electric Toothbrush,,49,78,3822
+2025-01-03,63,Motion Sensor Light,,80,69,5520
+2024-09-25,89,Taro Chips,,12,6,72
+2024-07-19,10,Basic V-Neck T-Shirt,,86,44,3784
+2025-07-06,63,Sliced Ham,,7,33,231
+2025-03-06,50,Vegan Taco Seasoning,,27,39,1053
+2025-05-25,2,Plant-Based Meal Prep Containers,,5,34,170
+2025-04-22,76,Fitness Balance Ball,,80,84,6720
+2024-12-06,26,Hiking Boots,,41,72,2952
+2025-03-08,54,Blueberry Muffin Mix,,19,64,1216
+2024-12-10,83,Lemon Pepper Seasoning,,40,56,2240
+2024-11-06,69,Air Fryer,,19,49,931
+2025-03-01,10,Ceramic Non-Stick Frying Pan,,50,39,1950
+2025-01-25,41,Wireless Gaming Headset,,94,91,8554
+2024-11-27,99,Herbal Tea Set,,16,33,528
+2025-01-03,17,Home Brewing Starter Kit,,65,39,2535
+2025-04-24,1,Peanut Butter,,89,22,1958
+2025-04-29,76,Coconut Lime Rice,,81,10,810
+2025-06-02,59,Electric Milk Frother,,22,50,1100
+2024-09-27,54,Peanut Butter Chocolate Chip Bars,,28,35,980
+2024-08-10,79,Mini Electric Kettle,,55,35,1925
+2024-09-20,91,Classic Black Trousers,,54,91,4914
+2024-08-11,44,Wireless Gaming Headset,,3,13,39
+2025-07-08,18,Bamboo Utensil Holder,,94,15,1410
+2025-02-12,27,Insulated Sport Tumbler,,25,4,100
+2025-03-08,50,Decorative Throw Blanket,,97,42,4074
+2024-09-11,14,Pine Nuts,,80,86,6880
+2024-07-21,24,Non-Slip Yoga Socks,,99,71,7029
+2024-11-17,99,Garden Tool Belt,,35,37,1295
+2025-06-18,37,Savory Rice Cakes,,37,40,1480
+2025-05-01,58,Basil Lemonade,,97,50,4850
+2024-08-26,39,Whisk Set,,68,19,1292
+2025-05-27,15,Frozen Pizza,,6,68,408
+2024-10-05,47,Chocolate Hazelnut Granola,,15,46,690
+2025-02-28,54,Portable Camping Shower,,5,16,80
+2025-03-20,82,Cacao Powder,,31,51,1581
+2025-01-13,22,Scented Soy Candles,,81,96,7776
+2024-10-06,21,High-Low Hem Tee,,43,75,3225
+2025-05-05,17,Cocoa Powder,,13,26,338
+2024-08-03,53,LED Desk Lamp with USB Charging,,38,74,2812
+2025-02-10,37,Mango Sticky Rice Dessert,,37,87,3219
+2024-09-20,14,Incense Holder,,15,5,75
+2024-08-04,67,Spicy Chicken Wings,,79,40,3160
+2024-12-09,56,Jigsaw Puzzle,,23,87,2001
+2025-01-20,56,Cauliflower Crust Pizza,,73,49,3577
+2024-12-16,76,Kids' Craft Supplies Set,,10,75,750
+2025-01-13,83,Foam Building Blocks for Kids,,89,6,534
+2025-06-20,21,Adjustable Dumbbells,,66,64,4224
+2024-11-03,94,Smartphone Car Mount with Wireless Charging,,88,18,1584
+2024-10-04,38,Kids' Activity Book,,65,73,4745
+2025-01-11,71,Caramel Sauce,,89,30,2670
+2025-02-23,11,Tofu,,84,87,7308
+2024-11-02,30,Pineapple Coconut Bars,,37,54,1998
+2024-09-17,70,Popcorn Chicken,,52,14,728
+2024-10-04,14,Hair Dryer,,35,24,840
+2025-02-23,45,Pest Control Traps,,42,96,4032
+2025-02-11,42,Adjustable Standing Desk,,57,10,570
+2025-03-07,75,Mini Hand Gesture Drone,,19,75,1425
+2024-10-16,6,Denim Jacket,,89,35,3115
+2025-03-19,30,Apple Cinnamon Granola,,14,58,812
+2025-02-11,52,Coconut Milk,,66,27,1782
+2024-08-16,70,Bamboo Cutting Board,,63,69,4347
+2025-01-31,61,Maple Breakfast Sausage,,72,37,2664
+2024-10-30,86,Caramelized Onion Dip,,50,88,4400
+2024-08-07,11,Mango Chutney,,61,84,5124
+2025-02-20,17,Coloring Books for Adults,,14,42,588
+2025-03-24,94,Wooden Puzzle Game,,60,57,3420
+2024-09-23,11,Mushroom Soup (canned),,60,10,600
+2024-10-15,22,Cocktail Shaker and Mixing Glass Set,,51,88,4488
+2025-02-23,10,Honey Lemon Tea,,3,83,249
+2024-09-07,50,Pineapple Rings,,3,96,288
+2024-09-14,39,Pineapple Salsa,,96,28,2688
+2024-09-03,94,Oven-Baked Parmesan Zucchini,,30,86,2580
+2025-01-07,61,Smart Water Bottle with Hydration Reminder,,85,36,3060
+2024-08-06,98,Feta Cheese,,78,35,2730
+2024-11-29,25,Shoe Organizer,,21,20,420
+2025-06-04,81,Portable Hammock,,50,94,4700
+2025-01-28,42,Instant Mashed Potatoes,,49,66,3234
+2025-05-14,53,Weighted Blanket,,73,44,3212
+2025-05-02,96,Pressure Washer Accessories Kit,,64,84,5376
+2025-03-03,36,Frozen Berry Medley,,24,100,2400
+2024-10-16,21,Pet Grooming Scissors,,94,29,2726
+2025-01-20,31,Adjustable Stand for Tablets and Smartphones,,79,45,3555
+2024-11-03,80,Camping Tarp,,12,43,516
+2025-07-03,4,Organic Vanilla Bean Ice Cream,,20,49,980
+2025-06-10,60,Kids' Educational Tablet,,3,78,234
+2024-10-20,75,Printed Maxi Skirt,,7,88,616
+2024-10-10,93,Portable Speakers,,46,76,3496
+2025-02-02,2,Electric Meat Grinder,,79,45,3555
+2024-12-04,81,Bamboo Charcoal Air Purifier Bags,,91,66,6006
+2025-06-05,25,Sweet Cherry Tomatoes,,43,80,3440
+2025-06-02,92,Savory Rice Cakes,,63,93,5859
+2024-07-27,41,Tandoori Chicken Marinade,,85,16,1360
+2024-07-13,100,Magic Color-Changing Mug,,8,25,200
+2024-12-09,38,Tennis Racket,,3,88,264
+2025-06-17,88,Printed Maxi Skirt,,84,32,2688
+2025-06-20,48,Garlic Butter Sauce,,80,88,7040
+2024-10-11,70,Ski Goggles,,73,43,3139
+2024-12-28,40,Electric Razor,,29,60,1740
+2024-08-26,54,Garden Hose Reel,,2,16,32
+2025-03-25,62,Electric Heating Pad,,77,45,3465
+2024-08-20,31,Multi-Function Smartphone Holder,,54,28,1512
+2025-02-11,11,Smartphone UV Sanitizer,,85,96,8160
+2024-07-24,73,Tofu,,9,24,216
+2024-11-10,54,Toy Building Set,,92,92,8464
+2024-12-26,89,Honey Roasted Peanuts,,89,56,4984
+2025-04-02,95,Compact Shoe Rack,,2,21,42
+2024-09-11,42,Silicone Baking Mats,,74,89,6586
+2025-06-30,3,LED Disco Ball Light,,52,65,3380
+2024-10-12,2,Educational STEM Kit,,93,59,5487
+2025-06-02,82,Foldable Picnic Table,,33,16,528
+2025-07-01,40,Stick Vacuums Cleaner,,34,82,2788
+2024-12-08,80,Luxury Bathrobe,,52,62,3224
+2025-05-22,18,Digital Wireless Meat Thermometer,,13,27,351
+2025-06-05,7,Lemon Garlic Shrimp,,11,48,528
+2024-10-07,57,Almond Flour Cookies,,24,92,2208
+2025-01-04,35,Garlic Butter Shrimp,,33,92,3036
+2024-08-24,75,Graphic Print Leggings,,75,9,675
+2025-06-26,33,Belted Trench Coat,,72,93,6696
+2025-05-03,58,Roasted Vegetable Medley,,50,47,2350
+2024-11-22,39,Electric Air Pump,,15,79,1185
+2025-05-11,21,Feta Cheese,,67,43,2881
+2025-06-19,76,Professional Chef Knife,,46,35,1610
+2025-07-04,9,Mini Fondue Set,,98,71,6958
+2024-08-01,76,Spaghetti Sauce,,2,71,142
+2024-11-15,65,Watercolor Brush Pens,,45,73,3285
+2025-04-03,58,Watering Can with Nozzle,,32,64,2048
+2025-05-19,54,Almond Joy Protein Bars,,22,89,1958
+2025-05-18,32,Fruit and Nut Bars,,4,50,200
+2025-06-28,81,Mushrooms,,2,13,26
+2025-03-17,94,Thyme,,15,90,1350
+2025-04-25,80,Caraway Rye Bread,,100,5,500
+2024-12-24,75,Kitchen Knife Sharpening System,,86,69,5934
+2025-01-19,78,Multi-Function Smartphone Holder,,84,47,3948
+2024-08-23,89,Robot Vacuum Cleaner,,88,9,792
+2025-02-19,49,High-Speed Hand Blender,,12,91,1092
+2025-03-06,71,Frozen Vegetarian Pizza,,59,17,1003
+2024-11-30,100,Digital Bullet Journal,,35,3,105
+2024-09-25,42,Silicone Ice Cube Tray,,52,85,4420
+2025-01-01,63,Samsung Galaxy Smartwatch,,26,94,2444
+2024-11-05,14,Car Trash Can,,60,92,5520
+2025-02-08,84,Dishwasher Safe Cutting Board,,81,84,6804
+2024-12-17,3,Water Bottle with Built-in Fruit Infuser,,38,60,2280
+2025-04-22,1,Stylish Combat Boots,,53,2,106
+2025-01-18,92,Caramelized Onion Dip Mix,,1,41,41
+2024-08-29,28,Wall-Mounted Bookshelf,,95,90,8550
+2025-03-06,89,Foldable Electric Scooter,,87,5,435
+2024-10-18,26,Almond Butter Cups,,73,6,438
+2024-11-05,97,Electric Skillet,,3,39,117
+2025-02-19,45,Car Trash Can,,65,88,5720
+2025-02-20,36,Repair Tool Set for Home Improvement,,74,70,5180
+2024-07-31,44,Athletic Sports Bra,,50,39,1950
+2024-11-18,21,Adjustable Bar Stools,,19,56,1064
+2025-01-24,19,Classic Cheesecake Mix,,82,49,4018
+2024-08-18,72,Cat Scratching Post with Toys,,90,9,810
+2025-01-14,83,Vegan Tacos,,16,99,1584
+2025-03-21,90,Vegetable Fried Rice Mix,,61,90,5490
+2024-07-15,95,Chili Beans (canned),,37,76,2812
+2025-01-22,34,Sushi Roll Kit,,80,17,1360
+2024-10-22,4,Traditional Hummus,,9,66,594
+2025-02-25,15,Air Purifier,,9,93,837
+2025-07-10,8,Men's Waterproof Hiking Boots,,46,17,782
+2024-07-18,91,Spinach and Feta Wraps,,17,8,136
+2025-02-02,22,Trackpad for Laptop,,44,80,3520
+2024-12-14,94,Chocolate Protein Powder,,63,46,2898
+2024-10-15,31,Sliced Avocado,,42,9,378
+2025-01-06,61,Stuffed Grape Leaves,,43,96,4128
+2025-06-27,27,Sesame Garlic Stir-Fry Sauce,,4,25,100
+2024-11-14,78,Window Blinds,,5,92,460
+2025-04-10,31,Quinoa Salad,,54,88,4752
+2024-12-26,69,Travel Mug with Leak-Proof Lid,,59,36,2124
+2025-06-02,98,Cauliflower Gnocchi,,87,40,3480
+2025-04-15,1,Glass Tea Pot,,87,40,3480
+2024-10-24,73,Children's Educational Workbook,,27,94,2538
+2024-11-27,66,Travel Document Organizer,,32,1,32
+2025-04-15,25,Non-Stick Grill Pan,,58,69,4002
+2025-06-28,33,Portable SSD,,53,61,3233
+2025-02-15,84,Organic Sweet Potatoes,,42,6,252
+2025-05-30,59,Desk Lamp with USB Port,,44,95,4180
+2025-03-01,85,Pineapple Chunks (canned),,20,18,360
+2024-08-22,7,Organic Italian Seasoning,,26,85,2210
+2025-02-06,85,Foot Massager,,7,50,350
+2024-08-15,28,Cinnamon Sugar Popcorn,,19,88,1672
+2025-03-01,53,Cream Cheese,,37,17,629
+2024-07-18,28,Kettle Corn Popcorn,,98,29,2842
+2024-07-26,28,Green Smoothie Mix,,34,68,2312
+2024-12-30,21,Printed Maxi Skirt,,72,15,1080
+2024-11-01,62,Fitness Jump Rope with LCD Counter,,67,89,5963
+2025-03-08,15,LED Desk Lamp with USB Charging,,44,55,2420
+2024-12-12,82,Insulated Lunch Box,,60,58,3480
+2025-05-25,65,Mediterranean Flatbread,,86,100,8600
+2025-06-12,26,Fitness Resistance Bands Set,,83,43,3569
+2025-06-09,74,Classic Pumps,,32,99,3168
+2024-10-13,78,Fresh Basil Pesto,,87,95,8265
+2025-04-22,55,Compact Refrigerator,,83,71,5893
+2024-09-13,29,Digital Food Scale,,61,54,3294
+2025-07-08,64,Quinoa & Black Bean Salad,,64,11,704
+2025-03-30,20,Compact Shoe Rack,,92,30,2760
+2024-11-02,89,Black Bean Salsa,,90,53,4770
+2024-10-31,37,Honey Glazed Carrots,,44,41,1804
+2024-07-29,32,Hiking Gaiters,,52,89,4628
+2025-07-07,93,Energy Protein Bars,,66,46,3036
+2024-09-11,80,Smartphone Stand,,33,50,1650
+2024-10-16,35,Essential Oils Diffuser Necklace,,85,35,2975
+2024-08-15,13,Wireless HDMI Receiver,,2,23,46
+2024-09-03,39,Berry Smoothie Mix,,94,59,5546
+2025-04-14,61,Beef Chili,,14,55,770
+2024-08-18,31,Ice Cube Tray with Lid,,94,7,658
+2025-06-24,86,Smart Water Bottle with Hydration Reminder,,11,73,803
+2025-05-27,34,Baby Monitor,,62,99,6138
+2024-10-21,13,Basil-infused Olive Oil,,98,92,9016
+2024-08-15,45,Eco-Friendly Beeswax Wraps,,75,66,4950
+2024-12-24,64,Smart Light Switch,,91,96,8736
+2025-06-23,15,Laptop Backpack,,72,89,6408
+2025-05-27,43,Magic Color-Changing Mug,,84,58,4872
+2024-07-15,99,Skincare Fridge,,42,12,504
+2025-06-21,15,Hiking Gaiters,,9,41,369
+2025-06-01,85,Travel Makeup Organizer,,15,71,1065
+2025-02-26,43,Pet Travel Carrier,,21,47,987
+2024-08-17,60,Vegetarian Stir Fry Sauce,,76,79,6004
+2024-11-11,79,Knitted Infinity Scarf,,18,96,1728
+2024-08-17,66,Essential Oil Diffuser,,35,40,1400
+2025-03-21,57,Pet Tracking Collar,,79,59,4661
+2025-06-13,92,Hibiscus Tea Bags,,90,82,7380
+2025-05-08,76,Self-Inflating Camping Mattress,,54,56,3024
+2024-09-12,25,Wireless HDMI Receiver,,13,53,689
+2024-10-25,2,Organic Granola,,41,25,1025
+2025-04-21,85,Wall Calendar,,35,14,490
+2024-10-19,54,Fruit and Nut Bars,,12,33,396
+2025-02-15,17,Outdoor Camping Hammock,,34,86,2924
+2024-10-01,96,Organic Black Rice,,12,51,612
+2025-04-29,96,Vacuum Sealer Machine,,86,94,8084
+2024-11-25,72,Almond Butter Granola Bars,,62,91,5642
+2025-04-20,93,Classic White T-Shirt,,74,16,1184
+2024-11-23,83,Spicy Salsa Verde,,8,25,200
+2024-10-07,47,Fitness Tracker Watch,,61,88,5368
+2025-07-07,70,Chipotle Lime Salsa,,89,30,2670
+2025-04-08,25,Spinach Feta Wraps,,8,18,144
+2025-02-12,23,Travel Mug,,27,31,837
+2024-12-28,59,Savory Quinoa Pudding,,21,84,1764
+2024-09-24,30,Low-Fat Yogurt,,20,76,1520
+2024-12-27,16,Mini Air Hockey Table,,41,10,410
+2025-01-31,44,Non-Stick Crepe Pan,,16,66,1056
+2024-08-17,80,Pistachio Ice Cream,,69,100,6900
+2024-09-29,73,Sweet Potato Chips,,76,39,2964
+2025-05-14,86,Gluten-Free Brownies,,99,47,4653
+2025-01-27,81,Outdoor Fire Pit,,20,48,960
+2025-04-15,83,Kid's Fruit Snacks,,34,61,2074
+2024-11-27,63,Set of Decorative Storage Bins,,99,3,297
+2024-10-02,85,Smartphone Tripod with Remote,,22,38,836
+2024-11-06,67,Crispy Potato Tots,,18,54,972
+2025-04-27,41,Bike Helmet,,92,22,2024
+2025-01-23,25,Kale Chips,,97,84,8148
+2024-12-05,46,Vegan Taco Seasoning,,83,63,5229
+2025-05-28,72,Graphic Hoodie,,90,42,3780
+2025-05-14,7,Cauliflower Crust Pizza,,42,75,3150
+2025-01-08,25,Shredded Cheese,,50,67,3350
+2024-08-16,53,Smart Thermostat,,79,54,4266
+2025-01-19,7,Quinoa and Kale Salad Kit,,57,42,2394
+2024-09-20,85,Spicy Roasted Nuts,,86,6,516
+2024-09-03,43,Spaghetti Sauce,,89,43,3827
+2025-06-27,45,Face Mask Set,,88,76,6688
+2025-02-16,88,LED Desk Lamp,,34,92,3128
+2024-09-24,62,Portable Air Pump,,25,63,1575
+2025-05-08,30,Dog Training Collar,,91,3,273
+2025-06-01,86,Patterned Knit Scarf,,83,99,8217
+2024-09-19,70,Blue Denim Jeans,,36,40,1440
+2024-12-23,34,Honey Roasted Almonds,,84,15,1260
+2025-05-31,62,Leek and Potato Soup,,69,11,759
+2024-12-18,45,Folding Backpack Chair,,100,85,8500
+2025-03-11,29,Portable Speaker Stand,,50,5,250
+2025-03-09,92,Pet Camera with Treat Dispenser,,40,27,1080
+2025-03-04,25,Ice Pack,,100,3,300
+2025-06-06,70,Handmade Soap Making Kit,,30,29,870
+2024-11-23,40,Trackpad for Laptop,,80,83,6640
+2024-08-12,81,Cherry Almond Protein Bar,,42,57,2394
+2025-02-12,99,Pineapple Chunks (canned),,66,56,3696
+2025-06-15,92,Sustainable Wooden Toys,,38,47,1786
+2024-10-29,75,Handmade Wooden Utensil Set,,73,66,4818
+2025-01-10,18,Bamboo Utensil Set,,32,87,2784
+2025-05-05,10,Backpacking Tent,,85,1,85
+2025-01-07,51,Snack Container Set,,69,95,6555
+2025-01-11,85,Manual Coffee Grinder,,83,37,3071
+2025-03-28,25,Pet Activity Tracker,,70,90,6300
+2025-02-13,13,Terry Cloth Robe,,2,23,46
+2024-09-11,30,Smartphone Hand Grip,,49,78,3822
+2025-03-18,23,Vegetable Spring Rolls,,56,56,3136
+2025-05-02,76,Crispy Onion Rings,,4,86,344
+2024-08-16,42,Buffalo Wing Sauce,,35,49,1715
+2024-10-13,42,Hand Crank Blender,,42,86,3612
+2025-06-25,8,Dog Training Whistle,,14,58,812
+2025-05-01,78,Electric Heat Pad,,94,51,4794
+2025-04-07,81,Italian Marinara Sauce,,32,85,2720
+2024-12-19,74,Bamboo Charcoal Air Purifier Bags,,86,41,3526
+2025-06-11,95,Heat-Resistant Silicone Mat,,75,100,7500
+2024-09-04,88,Garlic Parmesan Wings,,90,45,4050
+2024-11-15,23,Peanut Butter Filled Pretzels,,93,81,7533
+2024-10-24,96,Ceramic Planter Set,,20,92,1840
+2025-01-20,68,Compost Bin,,5,42,210
+2025-07-09,74,Infrared Thermometer Gun,,49,60,2940
+2024-08-27,24,Fridge Magnet Set,,33,65,2145
+2025-05-31,25,Gingerbread House Kit,,80,57,4560
+2025-02-27,4,Warm Wool Sweater,,64,45,2880
+2025-02-06,95,Peach Yogurt,,79,62,4898
+2025-03-03,37,Luxury Memory Foam Mattress Topper,,1,32,32
+2024-08-02,87,Insulated Lunch Bag,,42,44,1848
+2024-11-23,69,Italian Marinara Sauce,,13,10,130
+2024-12-18,48,Pasta Maker,,85,2,170
+2024-09-19,21,Pineapple Coconut Yogurt,,71,57,4047
+2025-05-22,45,Dried Fruit Medley,,16,36,576
+2024-07-26,100,Tennis Racket,,93,77,7161
+2025-04-06,28,Chewy Granola Bars,,45,4,180
+2024-11-12,34,Handmade Wooden Utensil Set,,17,76,1292
+2025-01-10,47,Hiking Boots,,56,31,1736
+2025-05-11,58,Ice Cream Scoop,,83,85,7055
+2025-07-01,40,High-Quality Yoga Mat,,74,62,4588
+2025-06-09,76,Water-Resistant Bluetooth Speaker,,41,23,943
+2024-10-30,8,Cotton Pajama Set,,86,25,2150
+2024-09-19,48,Pasta (Linguine),,59,94,5546
+2025-06-18,40,Pineapple Teriyaki Chicken Mix,,27,87,2349
+2024-10-06,66,Foldable Electric Scooter,,83,69,5727
+2024-12-28,1,Vegan Protein Powder,,47,30,1410
+2025-01-10,36,Puff Pastry,,100,40,4000
+2025-02-27,77,Wooden Toy Train Set,,73,89,6497
+2024-12-08,91,Foot Spa Bath Massager,,15,19,285
+2024-11-30,96,Spinach and Feta Stuffed Chicken Breast,,40,46,1840
+2025-06-17,21,Jasmine Rice,,81,28,2268
+2024-12-10,92,High-Top Leather Boots,,81,12,972
+2025-03-28,45,Chocolate Fudge Brownie Mix,,65,25,1625
+2025-02-04,17,Bamboo Memory Foam Pillow,,9,46,414
+2024-08-27,24,Compact Digital Camera,,34,49,1666
+2025-06-26,60,Decorative Wall Tapestry,,80,94,7520
+2025-04-25,11,Potting Soil,,90,1,90
+2024-07-17,79,Multi-Function Meat Tenderizer,,47,88,4136
+2025-07-04,2,Herb Seasoned Couscous,,91,93,8463
+2024-12-15,27,Vanilla Protein Powder,,60,63,3780
+2024-08-31,12,Stainless Steel Water Bottle,,73,97,7081
+2025-04-10,87,Surimi Crab Sticks,,6,3,18
+2024-09-06,70,Organic Brown Rice Cakes,,49,72,3528
+2025-04-24,70,Outdoor Sports Backpack,,25,83,2075
+2024-10-15,23,Paint By Numbers Kit,,29,36,1044
+2024-11-19,17,Electric Fondue Pot,,24,73,1752
+2025-07-08,91,Sweetened Condensed Milk,,57,100,5700
+2024-07-24,22,Decorative Throw Blanket,,74,64,4736
+2025-05-29,32,Lentil Vegetable Curry,,68,69,4692
+2024-07-14,92,Maple Almond Butter,,12,25,300
+2024-12-18,39,Vegetarian Stir Fry Sauce,,24,83,1992
+2025-03-05,47,Mediterranean Couscous,,3,13,39
+2025-03-23,76,Car Vacuum,,24,43,1032
+2024-12-24,90,DIY Candle Making Kit,,76,6,456
+2024-08-28,52,Maple Glazed Carrots,,87,41,3567
+2024-11-23,40,Peach Preserves,,72,21,1512
+2025-02-27,75,Vegetarian Pizza,,52,51,2652
+2024-08-08,38,Compact Hair Dryer,,42,82,3444
+2025-04-24,54,Spicy Snack Mix,,91,26,2366
+2025-04-24,95,Chia Seed Pudding Mix,,30,53,1590
+2025-06-06,49,Italian Sausage Links,,82,47,3854
+2024-07-23,39,Classic Beef Chili,,45,19,855
+2024-11-26,38,Patterned Knit Scarf,,6,80,480
+2025-02-26,34,Garden Vegetable Chips,,42,8,336
+2025-02-19,74,Chia Seeds,,8,91,728
+2024-12-03,88,Cinnamon Rolls,,87,52,4524
+2024-08-04,94,Teriyaki Chicken Wings,,63,94,5922
+2024-08-12,84,Spaghetti Squash,,21,1,21
+2024-10-02,24,Lemon Herb Grilled Chicken,,43,92,3956
+2024-08-01,31,Scent Diffuser Oil,,16,95,1520
+2024-08-25,63,Gardening Tools Set,,70,89,6230
+2025-01-09,63,Skincare Set,,76,86,6536
+2024-08-13,67,Balsamic Vinaigrette,,60,79,4740
+2025-05-28,48,Pet Travel Bed,,2,2,4
+2024-11-08,31,Beach Cover-Up,,77,6,462
+2024-12-14,3,Almond Crunch Granola Bars,,3,81,243
+2025-06-06,96,Coconut Flakes,,72,70,5040
+2024-09-20,8,Whole Wheat Pasta,,99,24,2376
+2024-12-27,26,Photo Album,,17,59,1003
+2024-09-30,52,Tuscan Bean Soup,,88,36,3168
+2024-10-27,78,Paint By Numbers Kit,,92,74,6808
+2024-08-18,27,Nordic Berry Smoothie,,79,37,2923
+2025-03-15,74,Lemon Herb Chicken,,81,71,5751
+2024-11-29,58,Maple Almond Yogurt,,34,5,170
+2025-06-11,77,Italian Pasta,,42,23,966
+2024-11-04,12,Smoked Paprika Chicken Thighs,,11,8,88
+2024-11-24,44,Lightweight Rain Jacket,,4,26,104
+2024-12-11,84,Matcha Green Tea Powder,,20,27,540
+2024-10-28,42,Sesame Ginger Dressing,,73,92,6716
+2025-05-25,12,Coconut Oil,,65,95,6175
+2024-11-09,40,Electric Screwdriver,,55,48,2640
+2024-11-20,86,Bird Feeder,,25,89,2225
+2025-05-08,39,Coloring Books for Adults,,36,57,2052
+2024-08-05,40,Outdoor Inflatable Pool,,84,2,168
+2025-05-12,92,Camping Tent,,58,77,4466
+2025-03-30,5,Mediterranean Olives,,48,51,2448
+2025-01-07,76,Mushrooms,,88,43,3784
+2025-04-16,41,Berry Smoothie Mix,,90,56,5040
+2024-09-06,25,Eco-Friendly Disposable Plates,,100,98,9800
+2025-04-24,75,Almond Milk,,47,69,3243
+2025-01-20,89,Digital Photo Frame,,82,35,2870
+2024-12-26,33,Sesame Noodles,,57,41,2337
+2025-02-11,11,Vegetable Stir-Fry Sauce,,31,76,2356
+2024-12-30,48,Wireless Music Receiver,,75,77,5775
+2025-01-18,28,Kale Caesar Salad Kit,,18,76,1368
+2024-12-21,3,Wireless Charging Station,,59,20,1180
+2024-08-16,48,Fitness Tracker Watch,,5,71,355
+2024-08-06,35,Wireless Security Camera,,86,32,2752
+2025-04-22,95,Artisan Cornbread Mix,,82,78,6396
+2025-01-24,26,Energy Bites,,66,15,990
+2024-12-19,45,Organic Italian Seasoning,,89,70,6230
+2025-04-25,64,Tailgating Set,,11,60,660
+2024-12-09,1,Portable Hammock with Stand,,2,88,176
+2024-09-13,30,Italian Meatballs,,97,76,7372
+2024-09-03,4,Apple Sauce,,32,24,768
+2025-04-29,70,Mini Indoor Herb Garden Kit,,75,3,225
+2024-12-04,1,Leather Crossbody Bag,,30,23,690
+2025-02-28,47,Foam Building Blocks for Kids,,32,26,832
+2025-02-08,68,Elegant Lace Dress,,26,67,1742
+2024-12-10,41,Portable Pet Water Bottle,,22,64,1408
+2024-08-11,66,Maple Pecan Pancake Mix,,8,50,400
+2024-10-24,50,Portable Pet Bathing Tool,,98,1,98
+2025-04-03,23,Cordless Electric Screwdriver,,92,58,5336
+2024-12-15,56,Home Brewing Starter Kit,,88,98,8624
+2024-09-27,58,Zesty Garlic Hummus,,16,27,432
+2025-02-23,37,Turkey Bacon,,58,11,638
+2024-12-08,42,Window Bird Feeder with Suction Cups,,97,86,8342
+2025-02-26,97,Dark Chocolate Tart,,8,79,632
+2025-05-18,4,Basic V-Neck T-Shirt,,88,95,8360
+2025-03-28,72,Silicone Baking Mat Set,,10,50,500
+2025-05-02,87,Cinnamon Sugar Mix,,4,24,96
+2025-05-07,62,Lemon Sorbet,,20,27,540
+2024-10-13,45,Almond Butter,,92,11,1012
+2025-05-08,77,Blue Denim Jeans,,30,28,840
+2025-01-30,39,Honey,,60,83,4980
+2025-05-24,75,Legging Pants,,34,44,1496
+2024-11-11,31,Baked Falafel Balls,,86,18,1548
+2025-06-11,5,Adjustable Window Blind,,97,5,485
+2024-09-30,39,Pet Travel Bowl,,77,62,4774
+2024-07-24,99,Training Soccer Ball,,15,57,855
+2024-07-12,80,Chili Lime Seasoning,,65,93,6045
+2024-09-24,29,Homestyle Beef Stew,,16,37,592
+2024-09-21,61,Stylish Wireless Earbuds,,7,61,427
+2024-09-13,10,Adjustable Garden Rake,,71,55,3905
+2024-09-27,56,Bodyweight Resistance Bands,,29,75,2175
+2024-08-09,6,Skincare Set,,60,25,1500
+2024-08-18,34,Thai Peanut Dressing,,99,92,9108
+2024-09-06,93,Adjustable Garden Rake,,74,97,7178
+2024-09-01,80,Denim Jacket,,81,94,7614
+2024-10-24,2,Organic Italian Seasoning,,31,26,806
+2025-02-09,9,Corn Tortillas,,87,84,7308
+2025-07-02,34,Portable UV Sterilizer,,79,53,4187
+2025-05-23,17,Garlic Parmesan Wings,,54,77,4158
+2025-06-27,55,Home Brewing Starter Kit,,98,39,3822
+2025-01-18,96,LED Desk Lamp with USB Charging,,74,22,1628
+2025-01-24,26,Sooji (Semolina),,22,21,462
+2024-09-12,95,Safety First Aid Kit,,88,63,5544
+2025-05-12,99,Lentil Pasta,,88,51,4488
+2024-08-14,36,Wooden Kitchen Utensil Set,,87,11,957
+2025-04-08,44,Camping Lantern,,24,9,216
+2025-03-05,25,Black Bean Salsa,,29,86,2494
+2024-10-23,48,Chocolate Syrup,,67,39,2613
+2024-11-14,63,Mango Chunks,,60,39,2340
+2024-11-18,78,Green Smoothie Mix,,85,18,1530
+2024-08-07,20,Cucumber Lime Sparkling Water,,76,82,6232
+2024-09-28,64,Jennifer's Amazing Lip Balm Kit,,80,47,3760
+2025-05-29,27,Teriyaki Stir-Fry Sauce,,10,94,940
+2025-07-04,25,Portable USB-C Monitor,,85,40,3400
+2025-06-20,31,Faux Fur Throw Blanket,,12,47,564
+2024-07-26,77,Silicone Baking Mat,,89,28,2492
+2025-03-30,80,Cauliflower Gnocchi,,12,29,348
+2025-05-01,51,Sweetened Condensed Milk,,28,18,504
+2025-01-07,53,Portable UV Sterilizer,,59,46,2714
+2025-05-31,50,Beach Cover-Up,,89,87,7743
+2024-11-21,43,Pet Grooming Kit,,39,62,2418
+2025-05-30,35,Hair Dryer,,35,43,1505
+2024-07-28,42,Herb Drying Rack,,11,27,297
+2025-06-02,95,Inflatable Pool Float,,68,68,4624
+2024-08-03,37,Portable Hand Warmer,,80,94,7520
+2025-03-03,72,Smart Home Hub,,33,67,2211
+2025-03-04,32,Bamboo Bathtub Caddy,,87,59,5133
+2024-10-05,51,Dog Car Seat Cover,,93,52,4836
+2025-04-14,46,Stainless Steel Water Bottle,,1,97,97
+2024-12-14,26,Quinoa and Kale Salad Kit,,28,30,840
+2024-09-16,73,Teriyaki Beef Jerky,,44,87,3828
+2024-10-02,12,Travel Jewelry Organizer,,69,37,2553
+2024-11-29,37,Smart Water Bottle,,68,1,68
+2025-01-18,78,Hibiscus Herbal Tea,,77,53,4081
+2025-02-18,81,Paint By Numbers Kit,,82,15,1230
+2025-01-11,59,Legging Pants,,98,65,6370
+2025-03-23,27,Savory Mushroom Risotto,,11,85,935
+2025-04-11,46,Maple Glazed Carrots,,21,65,1365
+2024-11-24,60,Fresh Strawberries,,38,75,2850
+2024-08-06,44,Cherry Almond Protein Bar,,19,84,1596
+2024-11-01,65,Coconut Cream Pie,,48,4,192
+2025-06-29,46,Chili Lime Corn Chips,,45,16,720
+2024-08-06,66,LED Strip Light Kit,,46,39,1794
+2024-12-11,74,Lightweight Workout Tank,,41,36,1476
+2024-08-07,28,Pet Grooming Scissors,,19,3,57
+2024-09-17,14,Electric Heat Pad,,54,55,2970
+2025-04-06,35,Dog Training Collar,,56,73,4088
+2025-02-28,16,Party Mini Dress,,63,9,567
+2024-10-29,25,Chocolate Mint Thins,,76,66,5016
+2025-01-04,15,Beach Cover-Up,,60,23,1380
+2025-03-26,48,Avocado Lime Dressing,,23,73,1679
+2025-05-07,13,Shower Curtain Hooks,,19,46,874
+2024-10-19,39,Home Brewing Starter Kit,,20,14,280
+2024-10-31,8,Pet Reflective Vest,,1,13,13
+2024-08-03,60,Himalayan Salt Grinder,,87,45,3915
+2025-02-23,83,Wireless Mouse,,30,57,1710
+2025-06-09,43,Watercolor Paint Set,,4,5,20
+2024-07-21,55,Portable Pet Bathing Tool,,18,64,1152
+2024-09-28,70,Almond Joy Snack Bars,,57,23,1311
+2024-12-20,53,Warm Knit Beanie,,90,29,2610
+2024-08-02,65,Savory Italian Herbs,,52,80,4160
+2024-11-25,100,Reusable Produce Bags Set,,98,44,4312
+2024-10-25,18,Kale and Quinoa Salad,,74,9,666
+2024-11-01,54,Honey Sesame Chicken,,86,15,1290
+2024-11-19,62,Two-Tone Windbreaker,,79,30,2370
+2024-09-16,36,Chocolate Peanut Butter Cups,,87,9,783
+2024-09-18,31,Overnight Hiking Backpack,,37,47,1739
+2025-05-19,99,Inspirational Wall Art,,11,22,242
+2024-08-21,60,Vegan Chocolate Cake Mix,,12,2,24
+2024-09-29,3,Cocktail Shaker and Mixing Glass Set,,96,68,6528
+2025-01-24,95,Relaxed Fit Henley Shirt,,47,50,2350
+2025-05-28,92,Pepperoni Pizza Roll-Ups,,28,40,1120
+2024-11-07,15,Chickpea Snack Mix,,30,67,2010
+2025-05-08,3,Mobile Workbench,,42,19,798
+2025-03-28,52,Mint Chocolate Chip Ice Cream,,10,1,10
+2024-10-07,19,Energy Bites,,16,40,640
+2025-03-12,47,Fitness Jump Box,,39,97,3783
+2025-05-12,54,Beard Grooming Kit,,50,30,1500
+2024-10-09,27,Granola,,7,56,392
+2024-11-10,17,Eco-Friendly Yoga Mat,,52,30,1560
+2024-08-06,24,Beef Sirloin Steak,,76,11,836
+2024-07-23,60,Hot Dog Buns,,46,99,4554
+2024-08-15,95,Herbal Tea Variety Pack,,20,97,1940
+2024-08-02,96,Hand Crank Blender,,99,9,891
+2025-02-17,80,Hummus Variety Pack,,13,29,377
+2025-03-23,74,Caramelized Onion Dip Mix,,74,6,444
+2024-08-11,31,Greek Feta Cheese,,11,38,418
+2024-07-19,11,Collapsible Camping Cup,,36,100,3600
+2024-11-27,32,Coconut Oil,,13,42,546
+2024-07-21,4,Printed Maxi Skirt,,5,65,325
+2024-12-30,41,Beef Enchilada Casserole,,22,24,528
+2025-06-21,52,Rustic Italian Breads,,54,66,3564
+2024-08-12,11,Sriracha Chili Sauce,,5,80,400
+2024-10-22,38,Personalized Cutting Board,,70,86,6020
+2025-05-06,62,Pet Hair Vacuum Attachment,,28,89,2492
+2024-09-12,59,Compact Refrigerator,,5,54,270
+2025-01-18,78,Outdoor Inflatable Pool,,58,84,4872
+2025-03-25,49,Roasted Red Pepper Sauce,,94,90,8460
+2025-05-16,14,Cotton Quilted Throw Blanket,,11,4,44
+2025-05-04,82,Electric Toothbrush,,7,33,231
+2024-10-01,59,Window Blinds,,54,14,756
+2024-12-21,74,Electric Heat Pad,,63,40,2520
+2025-01-11,63,Fitbit Activity Tracker,,97,28,2716
+2024-08-27,35,Pumpkin Spice Latte Mix,,52,9,468
+2024-08-22,2,Organic Brown Rice Cakes,,27,72,1944
+2024-09-18,80,Collapsible Folding Chair,,33,23,759
+2024-09-10,62,Vanilla Pudding Mix,,71,17,1207
+2024-12-26,56,Travel Document Organizer,,19,77,1463
+2024-12-29,38,Kids' Art Supplies Kit,,20,91,1820
+2024-11-26,44,Honey,,89,11,979
+2024-11-30,15,Thermostatic Shower Valve Kit,,95,75,7125
+2025-03-30,5,Salsa Verde,,98,30,2940
+2024-09-16,98,Under Desk Footrest,,35,19,665
+2024-10-10,25,Caramel Apple Chips,,10,27,270
+2025-05-23,35,Teriyaki Stir-Fry Sauce,,51,42,2142
+2024-09-17,43,Sunflower Seeds,,46,84,3864
+2024-10-07,68,Coffee Maker,,83,30,2490
+2024-09-10,14,Classic White T-Shirt,,71,11,781
+2025-04-29,93,Cranberry Almond Biscotti,,52,55,2860
+2024-09-15,74,Low-Fat Cottage Cheese,,58,32,1856
+2025-03-10,36,Infrared Space Heater,,51,9,459
+2024-10-11,72,Spinach Artichoke Dip,,65,14,910
+2025-04-20,90,Honey mustard chicken tenders,,52,100,5200
+2025-02-04,75,Travel Shoe Bags Set,,29,53,1537
+2025-05-14,80,Pressure Washer Accessories Kit,,16,92,1472
+2024-12-02,74,Stainless Steel Travel Mug,,69,11,759
+2025-04-01,11,Collapsible Camping Cup,,11,82,902
+2025-02-06,50,Ice Cream Scoop,,19,21,399
+2024-09-28,50,Vegetable Fried Rice,,50,84,4200
+2024-08-30,95,Bluetooth Shower Speaker,,98,20,1960
+2025-02-26,20,Video Camera,,75,92,6900
+2025-02-03,69,Slim Wallet,,68,56,3808
+2025-04-10,98,Peach Halves (canned),,31,94,2914
+2025-06-23,79,Mini Air Hockey Table,,9,34,306
+2025-03-30,79,Vegetable Stock,,36,93,3348
+2024-09-08,96,Roasted Red Pepper Sauce,,16,21,336
+2025-04-25,21,Non-Toxic Crayons for Kids,,12,55,660
+2024-07-19,59,Stainless Steel BBQ Grill Set,,1,39,39
+2024-08-21,83,Golf Putting Green,,24,98,2352
+2025-04-08,59,Trackpad for Laptop,,11,64,704
+2025-03-23,61,Diced Tomatoes (canned),,75,66,4950
+2024-08-01,85,Veggie Burger Patties,,30,30,900
+2025-03-04,13,Car Phone Mount,,83,87,7221
+2025-03-24,100,Classic Pesto Sauce,,96,86,8256
+2024-07-18,91,Bock Beer Mustard,,19,38,722
+2024-12-17,60,Canned Sardines,,32,77,2464
+2025-03-31,78,Harvest Grain Salad,,33,84,2772
+2025-03-30,52,Weighted Blanket for Adults,,17,96,1632
+2024-09-30,12,Baked Mac and Cheese,,8,21,168
+2025-03-04,31,Pet Grooming Kit,,34,94,3196
+2025-01-29,80,Stylish Wide-Leg Trousers,,30,12,360
+2025-01-03,26,Wild Rice Pilaf,,96,64,6144
+2024-12-05,95,Suction Cup Hooks,,73,25,1825
+2024-07-20,62,Maple Bacon Jerky,,9,50,450
+2024-07-28,85,Adjustable Dog Harness,,93,51,4743
+2024-09-18,42,Caramelized Onion Dip Mix,,82,89,7298
+2024-07-12,6,Roasted Sweet Corn,,5,82,410
+2024-10-01,6,Smoked Paprika,,37,63,2331
+2025-05-30,4,Pasta Salad Kit,,47,46,2162
+2024-10-21,22,Smoked Salmon,,26,86,2236
+2024-09-29,46,Nutty Quinoa Salad,,5,11,55
+2025-06-26,34,Almond Joy Bars,,37,92,3404
+2025-03-14,91,Classic Caesar Dressing,,83,85,7055
+2025-01-26,96,Car Vacuum,,80,29,2320
+2025-04-17,58,Pet Grooming Brush,,71,47,3337
+2024-08-30,69,Teriyaki Chicken Bowl,,92,87,8004
+2024-09-20,79,Creative Puzzle Game,,89,4,356
+2025-01-22,47,Hydration Backpack,,95,70,6650
+2025-07-06,53,Pet Hair Remover,,20,33,660
+2025-01-06,100,Organic Green Lentils,,92,80,7360
+2025-04-29,76,Spiced Pumpkin Soup,,13,71,923
+2024-12-03,44,Zesty Garlic Hummus,,50,37,1850
+2024-11-14,71,Taro Chips,,19,88,1672
+2024-09-06,44,Personalized Cutting Board,,83,40,3320
+2024-11-10,52,Travel Yoga Mat,,3,32,96
+2025-05-06,9,Safety First Aid Kit,,35,20,700
+2024-09-27,10,Carrot and Celery Sticks,,18,66,1188
+2025-02-17,15,Electric Griddle with Removable Plates,,57,79,4503
+2025-07-08,66,Spicy BBQ Sauce,,40,45,1800
+2025-05-24,99,Compact Refrigerator,,28,15,420
+2025-04-20,25,Portable Phone Mug Holder,,88,80,7040
+2025-03-17,18,Vegetable Pizza Rolls,,16,87,1392
+2024-12-08,27,Oven Thermometer,,58,23,1334
+2025-03-06,71,Classic BBQ Sauce,,54,66,3564
+2025-03-17,60,Kale and Quinoa Salad,,8,38,304
+2024-11-02,86,Greek Feta Cheese,,25,60,1500
+2025-01-24,37,Cinnamon Rolls,,18,100,1800
+2024-10-17,44,Wire Shelving Unit,,38,52,1976
+2025-07-10,41,Garlic Parmesan Wings,,92,82,7544
+2025-02-01,79,Kids' Gardening Tools Set,,3,36,108
+2024-12-09,20,Pasta Portion Control Measure,,56,27,1512
+2024-08-13,99,Wireless Security System,,7,25,175
+2024-12-18,82,Himalayan Salt Grinder,,32,54,1728
+2025-01-25,30,LED Christmas Lights,,89,73,6497
+2024-08-22,55,Electric Can Opener,,46,47,2162
+2025-02-27,43,Garlic Herb Seasoning,,21,63,1323
+2024-10-14,83,Raisin Cinnamon Granola,,65,100,6500
+2024-08-23,3,Pet Hair Vacuum Attachment,,7,23,161
+2025-04-09,60,Baby Monitor,,16,41,656
+2025-06-08,66,Vegetarian Sausage Links,,58,30,1740
+2025-06-30,35,Kale Salad with Lemon Dressing,,28,85,2380
+2024-10-01,6,Buffalo Cauliflower Bites,,37,83,3071
+2025-06-22,5,Creamy Coleslaw Mix,,7,21,147
+2024-09-17,52,Pet Hair Removal Roller,,70,44,3080
+2025-02-03,48,Spiralizer,,79,63,4977
+2024-11-13,42,Pet Reflective Vest,,75,98,7350
+2024-10-22,79,Cabbage,,72,76,5472
+2024-12-29,68,Coconut Curry Chicken,,73,96,7008
+2025-02-18,83,Laundry Detergent,,25,96,2400
+2024-12-29,45,Rice Noodles,,10,2,20
+2024-11-12,62,Carrot Ginger Soup,,23,23,529
+2024-11-23,47,Hydration Backpack,,93,7,651
+2025-04-01,46,Bicycle Lock,,5,66,330
+2025-03-06,82,Hiking Boots,,39,23,897
+2024-12-13,61,Dog Car Seat Cover,,22,55,1210
+2024-08-17,87,Children's Educational Workbook,,53,10,530
+2025-03-24,63,Pasta Primavera Kit,,2,9,18
+2025-05-25,55,Habanero Hot Sauce,,59,52,3068
+2025-01-20,99,Pet Hair Vacuum Attachment,,21,97,2037
+2025-02-02,53,Puffed Rice Cake,,25,36,900
+2024-12-04,51,Savory Oats,,93,83,7719
+2025-07-07,36,Luxury Rolling Makeup Case,,53,72,3816
+2024-12-08,4,Avocado Oil Mayo,,9,35,315
+2024-12-23,43,Bluetooth Sleep Headphones,,52,46,2392
+2024-12-17,90,Vegetable Quinoa Bowl,,82,63,5166
+2024-12-20,29,Travel Pillow,,85,19,1615
+2025-05-20,99,Vegetable Potstickers,,20,83,1660
+2025-06-16,24,Buffalo Cauliflower Wings,,71,74,5254
+2025-03-10,64,Wireless Range Extender,,85,1,85
+2025-01-10,44,Rainbow Veggie Chips,,74,31,2294
+2024-10-05,94,Linen Trousers,,8,16,128
+2024-08-21,62,Classic Vanilla Fudge,,68,12,816
+2025-06-17,59,Electric Heating Pad,,4,61,244
+2024-10-10,51,Organic Coconut Flour,,37,1,37
+2024-08-18,7,Weighted Jump Rope,,67,29,1943
+2024-12-14,52,Ribbed Knit Dress,,58,84,4872
+2024-08-18,93,Maple Cinnamon Granola,,56,15,840
+2025-05-20,71,Sesame Garlic Stir-Fry Sauce,,72,92,6624
+2025-07-05,32,Kids' Dinosaur-Themed Lunchbox,,9,59,531
+2024-09-05,4,Pasta Primavera Kit,,9,41,369
+2024-07-30,50,Sushi Rice,,13,57,741
+2024-10-23,5,Sesame Seeds,,79,26,2054
+2025-05-03,88,Fitness Tracker with Heart Rate Monitor,,94,71,6674
+2025-01-04,37,Pumpkin Spice Muffins,,22,12,264
+2025-05-26,58,Spicy Tuna Rolls,,33,15,495
+2024-08-30,41,Biodegradable Dog Waste Bags,,44,4,176
+2025-05-03,83,Motion Sensor Light,,52,95,4940
+2025-01-26,57,LED Canopy Lights,,29,9,261
+2025-04-24,76,Fruit and Nut Energy Bites,,34,17,578
+2025-03-18,62,Wireless Car Charger,,51,41,2091
+2024-12-27,2,Vegetable Potstickers,,90,25,2250
+2025-01-21,42,Gluten-Free Bread,,78,79,6162
+2024-09-12,79,Pet Travel Bowl,,20,93,1860
+2025-03-16,14,Stylish Wide-Leg Trousers,,13,59,767
+2025-07-06,72,Active Racerback Tank,,25,34,850
+2024-08-03,11,Screen Cleaning Kit,,90,18,1620
+2025-03-14,64,Garlic Parmesan Wings,,22,71,1562
+2025-06-05,35,Vegan Caesar Dressing,,58,17,986
+2024-10-16,87,Maple Glazed Carrots,,10,65,650
+2024-10-07,73,Cacao Powder,,56,28,1568
+2025-01-27,14,Mango Salsa,,90,45,4050
+2025-04-07,95,Non-Toxic Crayons for Kids,,17,24,408
+2025-02-18,11,Mango Chilli Sauce,,57,24,1368
+2025-05-06,40,Mini Pretzels,,35,76,2660
+2024-08-26,51,Herbed Couscous,,4,39,156
+2025-03-11,1,Apricot Jam,,52,13,676
+2024-10-31,7,Handheld Vacuum,,89,43,3827
+2025-07-10,69,Classic Vanilla Fudge,,16,87,1392
+2025-04-03,22,Quinoa,,96,81,7776
+2024-11-12,91,Chili Beans (canned),,35,27,945
+2024-09-13,30,Almond Flour Pancake Mix,,89,55,4895
+2024-11-17,18,Coconut Cream Pie Mix,,82,95,7790
+2025-07-09,60,Gardening Kneeler and Seat,,48,86,4128
+2025-04-13,51,Chili Garlic Sauce,,69,55,3795
+2024-11-06,53,Camping Chair with Cooler,,16,52,832
+2024-11-23,47,Mediterranean Chickpea Salad,,53,58,3074
+2025-03-07,71,Almond Butter Cookies,,12,47,564
+2025-01-31,64,Ginger Turmeric Shots,,35,43,1505
+2025-03-06,85,Spicy Hummus,,58,85,4930
+2024-07-17,8,Cheddar & Bacon Potato Skins,,43,4,172
+2024-09-11,73,Roasted Garlic Mashed Potatoes,,50,61,3050
+2024-12-07,50,Adjustable Height Standing Desk Converter,,61,42,2562
+2024-08-17,31,Pet Water Fountain,,8,15,120
+2024-09-02,32,Rice Cakes,,3,4,12
+2025-02-01,30,Mechanical Keyboard,,94,53,4982
+2024-10-23,69,Scented Soy Candles,,98,41,4018
+2024-09-03,14,Set of Measuring Spoons,,68,60,4080
+2025-04-06,85,Pet Waterer with Filtration,,59,17,1003
+2024-12-23,23,Zesty Garlic Marinade,,15,5,75
+2025-05-17,14,Compact Portable Grill,,29,58,1682
+2024-11-23,57,Whole Grain Mustard,,31,17,527
+2025-03-07,15,Breathable Face Mask Set,,45,55,2475
+2024-09-12,39,Motion Sensor Light,,87,16,1392
+2025-06-16,9,Cinnamon Sugar Tortilla Chips,,6,95,570
+2024-11-29,40,Crew Neck Sweater,,85,67,5695
+2025-02-16,34,Portable Projector,,7,3,21
+2025-06-13,24,Lentil Soup,,25,54,1350
+2025-02-12,50,Organic Whole Wheat Flour,,77,72,5544
+2025-06-15,50,Pasta Salad Kit,,61,25,1525
+2025-02-02,7,Pasta (Fusilli),,28,55,1540
+2025-01-26,94,Compact Hair Dryer,,95,19,1805
+2025-01-11,63,Garlic Parmesan Roasted Nuts,,39,20,780
+2024-07-14,89,Sliced Olives,,65,37,2405
+2025-04-26,50,Tomato Basil Pasta Sauce,,49,60,2940
+2024-08-09,40,Marinara Sauce,,75,31,2325
+2024-07-31,50,Mini Fondue Set,,46,45,2070
+2024-12-30,44,Organic Honeycrisp Apples,,23,88,2024
+2025-01-30,58,Wall Calendar,,43,98,4214
+2025-07-03,37,Tabletop Fire Pit,,96,70,6720
+2025-06-03,22,Organic Lentil Soup,,29,35,1015
+2025-04-08,30,Cinnamon Sugar Donuts,,71,51,3621
+2025-06-17,57,Wireless Earbuds Case,,96,24,2304
+2024-10-13,21,Gardening Gloves,,49,15,735
+2025-02-01,88,Cucumber Lime Sparkling Water,,51,8,408
+2024-08-07,72,Pepperoni Pizza Rolls,,34,78,2652
+2025-05-23,69,Jennifer's Amazing Lip Balm Kit,,71,9,639
+2025-02-18,15,Over-The-Door Shoe Organizer,,75,21,1575
+2024-07-18,80,Pet Water Bottle,,10,23,230
+2024-11-05,81,Mini Air Purifier,,61,92,5612
+2024-10-15,85,Sliced Avocado,,3,26,78
+2025-02-25,28,Sesame Oil,,78,100,7800
+2025-02-24,63,Honey,,22,20,440
+2025-02-19,85,Cinnamon Sugar Tortilla Chips,,62,96,5952
+2025-04-28,66,Rechargeable Laptop Battery Pack,,33,80,2640
+2024-09-15,67,Electric Griddle with Lid,,28,57,1596
+2024-10-15,1,Cranberry Almond Biscotti,,42,43,1806
+2024-07-27,11,Sesame Seeds,,2,28,56
+2025-04-08,66,Black Bean Soup,,14,92,1288
+2025-05-01,50,Coconut Chia Pudding,,100,34,3400
+2025-02-13,61,Electric Heat Pad,,51,72,3672
+2025-04-08,76,Tailgating Set,,44,49,2156
+2024-10-19,78,Robot Vacuum Cleaner,,14,41,574
+2024-12-21,99,Ultraviolet Phone Sanitizer,,56,10,560
+2025-03-24,29,Portable Pet Water Bottle,,60,9,540
+2025-03-30,82,LED Under Cabinet Lighting,,76,53,4028
+2024-09-21,46,Multicolored LED Strip Lights,,9,49,441
+2024-08-07,31,Peanut Butter Granola,,56,90,5040
+2025-03-05,4,Pumpkin Spice Latte Mix,,20,6,120
+2025-04-18,70,Cinnamon Raisin Bagels,,63,24,1512
